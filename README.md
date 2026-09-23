@@ -1,5 +1,9 @@
 🧠
 
+<p align="left">
+  <img src="./assets/portrait-ascii.svg" width="210" height="227" alt="Retrato ASCII" />
+</p>
+
 <!--
 **dlr-1337/dlr-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
