@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="227" viewBox="0 0 536 579" role="img" aria-labelledby="title desc">
+<title id="title">Retrato ASCII</title>
+<desc id="desc">Retrato frontal monocromatico, sem fundo e sem informacoes laterais.</desc>
+<style>
+    .ink-light { fill: #24292f; }
+    .ink-dark { fill: #e6edf3; display: none; }
+    @media (prefers-color-scheme: dark) {
+      .ink-light { display: none; }
+      .ink-dark { display: inline; }
+    }
+    .portrait { animation: reveal 1.1s steps(37, end) both; }
+    @keyframes reveal {
+      from { clip-path: inset(0 0 100% 0); }
+      to { clip-path: inset(0); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .portrait { animation: none; }
+    }
+</style>
+<g class="portrait" font-family="monospace" font-size="13.333" font-weight="700">
+<text class="ink-light" xml:space="preserve">
+<tspan x="12" y="23" textLength="512" lengthAdjust="spacingAndGlyphs">                                                                </tspan>
+<tspan x="12" y="38" textLength="512" lengthAdjust="spacingAndGlyphs">                         =++#%%#*+==                            </tspan>
+<tspan x="12" y="53" textLength="512" lengthAdjust="spacingAndGlyphs">                      *%@@@@%@%%%@%%%%*+                        </tspan>
+<tspan x="12" y="68" textLength="512" lengthAdjust="spacingAndGlyphs">                    +%@@@@@@%%%%%%%%@@%%@#=                     </tspan>
+<tspan x="12" y="83" textLength="512" lengthAdjust="spacingAndGlyphs">                 =#@@@@@@@@@@@@%@@@@@@@%@@@@#                   </tspan>
+<tspan x="12" y="98" textLength="512" lengthAdjust="spacingAndGlyphs">                %@@@@%%@@@@@@@%%####*+===+%@@%+                 </tspan>
+<tspan x="12" y="113" textLength="512" lengthAdjust="spacingAndGlyphs">               %@@#%*++#%%%@%#+=-::::::::::+%@@#                </tspan>
+<tspan x="12" y="128" textLength="512" lengthAdjust="spacingAndGlyphs">              %@@*=-:------::..........::::.-#@@*               </tspan>
+<tspan x="12" y="143" textLength="512" lengthAdjust="spacingAndGlyphs">             *@%#=----::.........     ...:::.-#%%*              </tspan>
+<tspan x="12" y="158" textLength="512" lengthAdjust="spacingAndGlyphs">             @@%*+-----:::......       ...::::=#%%              </tspan>
+<tspan x="12" y="173" textLength="512" lengthAdjust="spacingAndGlyphs">             @@%*=----::::......     .....:::::=%%              </tspan>
+<tspan x="12" y="188" textLength="512" lengthAdjust="spacingAndGlyphs">             @@#------:::.... ....     ...:::::.#%              </tspan>
+<tspan x="12" y="203" textLength="512" lengthAdjust="spacingAndGlyphs">             %@+---::.......   .         ..:::::#%              </tspan>
+<tspan x="12" y="218" textLength="512" lengthAdjust="spacingAndGlyphs">             +@+--=****###+-. .....:-+####**+-::#+              </tspan>
+<tspan x="12" y="233" textLength="512" lengthAdjust="spacingAndGlyphs">              %=-+##*******+-:::::-=+**+=--:-+=.+               </tspan>
+<tspan x="12" y="248" textLength="512" lengthAdjust="spacingAndGlyphs">            -=*==+=::---==***=:..:-+**+*+=--::-:---             </tspan>
+<tspan x="12" y="263" textLength="512" lengthAdjust="spacingAndGlyphs">            #*++*++#%*%@%:=*+**--=*-+*=#@%+##+--+-==            </tspan>
+<tspan x="12" y="278" textLength="512" lengthAdjust="spacingAndGlyphs">            +*+-=+*++==+=-:=**-. .++:====---=+===.:-            </tspan>
+<tspan x="12" y="293" textLength="512" lengthAdjust="spacingAndGlyphs">            =*+=---:::::...-=-:  ..=. .:::...:--::.:            </tspan>
+<tspan x="12" y="308" textLength="512" lengthAdjust="spacingAndGlyphs">             *+==-::......:---:...:::. ......::::::             </tspan>
+<tspan x="12" y="323" textLength="512" lengthAdjust="spacingAndGlyphs">             -===-:::.....:=-:.   .:-:      .:::-:-             </tspan>
+<tspan x="12" y="338" textLength="512" lengthAdjust="spacingAndGlyphs">              ==--:::..  .++==:...---:.     ..::-:              </tspan>
+<tspan x="12" y="353" textLength="512" lengthAdjust="spacingAndGlyphs">              ===--::.. ..+#%%%#***+: ..   ...::-:              </tspan>
+<tspan x="12" y="368" textLength="512" lengthAdjust="spacingAndGlyphs">               ===-::....:-+++==-:::..  ......:-:               </tspan>
+<tspan x="12" y="383" textLength="512" lengthAdjust="spacingAndGlyphs">               ===--:::-+*====-:-----==:..:::::--               </tspan>
+<tspan x="12" y="398" textLength="512" lengthAdjust="spacingAndGlyphs">                ++=--:=#*********++*+*%*-::::---                </tspan>
+<tspan x="12" y="413" textLength="512" lengthAdjust="spacingAndGlyphs">                 ++=-:---=*+-:....:-+==+=:::--=                 </tspan>
+<tspan x="12" y="428" textLength="512" lengthAdjust="spacingAndGlyphs">                  +*+=---:=*****++++=::--:--==                  </tspan>
+<tspan x="12" y="443" textLength="512" lengthAdjust="spacingAndGlyphs">                   *#+==-----======------==+=-                  </tspan>
+<tspan x="12" y="458" textLength="512" lengthAdjust="spacingAndGlyphs">                -**=*#*===-::...  ..::--=++-:=+=                </tspan>
+<tspan x="12" y="473" textLength="512" lengthAdjust="spacingAndGlyphs">             +#@%+==++###*+--=---:-::=+**+:::--=%#+             </tspan>
+<tspan x="12" y="488" textLength="512" lengthAdjust="spacingAndGlyphs">         =*%@@@@*-+==++*%@%###*#*##*#%%*-::::--.=@%@%*=         </tspan>
+<tspan x="12" y="503" textLength="512" lengthAdjust="spacingAndGlyphs">     =*%@@@@@@@@%-+===+++*%@@@@@@@@@%*-::::::--.+@%@@@@%%*=     </tspan>
+<tspan x="12" y="518" textLength="512" lengthAdjust="spacingAndGlyphs"> -*#@@@@@@@@@@@@@*-===+++++**###%%#*-:::.:::::..%@@@@@@@@@@%%*= </tspan>
+<tspan x="12" y="533" textLength="512" lengthAdjust="spacingAndGlyphs">%%@@@@@@@@@@@%@@@@#====+++++**###+-::::.:::::..#@@@@@@@@@@@@@@%%</tspan>
+<tspan x="12" y="548" textLength="512" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@@@@%@@@@@*==+++++++=--::::..:::...=%@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="12" y="563" textLength="512" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@@@@@%@@@@@%*=----:::::::....::..=#@@@@@@@@@@@@@@@@@@@</tspan>
+</text>
+<text class="ink-dark" xml:space="preserve">
+<tspan x="12" y="23" textLength="512" lengthAdjust="spacingAndGlyphs">                                                                </tspan>
+<tspan x="12" y="38" textLength="512" lengthAdjust="spacingAndGlyphs">                          .........                             </tspan>
+<tspan x="12" y="53" textLength="512" lengthAdjust="spacingAndGlyphs">                      .... ...:...:::..                         </tspan>
+<tspan x="12" y="68" textLength="512" lengthAdjust="spacingAndGlyphs">                    ..      .:...... .:. .                      </tspan>
+<tspan x="12" y="83" textLength="512" lengthAdjust="spacingAndGlyphs">                  ...        ...  .    ..   .                   </tspan>
+<tspan x="12" y="98" textLength="512" lengthAdjust="spacingAndGlyphs">                .    .:..     ::----=+***=:  ..                 </tspan>
+<tspan x="12" y="113" textLength="512" lengthAdjust="spacingAndGlyphs">               .  ::=+=-::..:-+*###%%%%%%%#+: ..                </tspan>
+<tspan x="12" y="128" textLength="512" lengthAdjust="spacingAndGlyphs">              ...=**########%%%%%%%%%%%%%#%%#- ..               </tspan>
+<tspan x="12" y="143" textLength="512" lengthAdjust="spacingAndGlyphs">              ..-*#####%%%%%%%%%%@@@@@%%%##%%#-.:.              </tspan>
+<tspan x="12" y="158" textLength="512" lengthAdjust="spacingAndGlyphs">              ..=+*#*####%%%@%%%@@@@@@@%%%%%##*-.:              </tspan>
+<tspan x="12" y="173" textLength="512" lengthAdjust="spacingAndGlyphs">               :=**#######%%%%%%@@@@@%%%%%%%##%*..              </tspan>
+<tspan x="12" y="188" textLength="512" lengthAdjust="spacingAndGlyphs">               -*#*#####%%%%%@%%%%@@@@@%%%%###%%-.              </tspan>
+<tspan x="12" y="203" textLength="512" lengthAdjust="spacingAndGlyphs">               +#*##%%%%%%%%@@@@@@@@@@@@@%%#%%#%-               </tspan>
+<tspan x="12" y="218" textLength="512" lengthAdjust="spacingAndGlyphs">               +***====---+#%@%%%%%#*+----==+*#%-               </tspan>
+<tspan x="12" y="233" textLength="512" lengthAdjust="spacingAndGlyphs">               **+:-=======+*######*+==++###*+*%+               </tspan>
+<tspan x="12" y="248" textLength="512" lengthAdjust="spacingAndGlyphs">            .::*++*#####**===*#%%%#+==+=+**#%%*#*:-             </tspan>
+<tspan x="12" y="263" textLength="512" lengthAdjust="spacingAndGlyphs">            -=++=++-:=: :#*=+==*#*=*+=*: :+--+#*+**-            </tspan>
+<tspan x="12" y="278" textLength="512" lengthAdjust="spacingAndGlyphs">            :=+#*+=++**+*##*==*%@%+=#*+*+*#**+***%#-            </tspan>
+<tspan x="12" y="293" textLength="512" lengthAdjust="spacingAndGlyphs">            .=+**###%##%%%%#+##@@%%*%@%%%%%%%%#*##%:            </tspan>
+<tspan x="12" y="308" textLength="512" lengthAdjust="spacingAndGlyphs">             =+**##%%%%%%%#**##%%%%%#%@@%%%%%##%###             </tspan>
+<tspan x="12" y="323" textLength="512" lengthAdjust="spacingAndGlyphs">             .*+**##%%%%%%#*#%%@@@%%##@@@@@@%%%###:             </tspan>
+<tspan x="12" y="338" textLength="512" lengthAdjust="spacingAndGlyphs">              ++*###%%@@@%++**%%@%**##%@@@@@%%%#*#              </tspan>
+<tspan x="12" y="353" textLength="512" lengthAdjust="spacingAndGlyphs">              -**###%%%@%%+-..:-==-=%@%%@@@%%%%##-              </tspan>
+<tspan x="12" y="368" textLength="512" lengthAdjust="spacingAndGlyphs">               ++*###%%%%##+++**####%%@@%%%%%%##*               </tspan>
+<tspan x="12" y="383" textLength="512" lengthAdjust="spacingAndGlyphs">               :++*###%#+=*****###*##+*#%%#%%%##:               </tspan>
+<tspan x="12" y="398" textLength="512" lengthAdjust="spacingAndGlyphs">                =++*##*-==-======+==+=:=*######=                </tspan>
+<tspan x="12" y="413" textLength="512" lengthAdjust="spacingAndGlyphs">                 =+**##*#*=+#%%%%%%#+**+*%%#**=                 </tspan>
+<tspan x="12" y="428" textLength="512" lengthAdjust="spacingAndGlyphs">                  :=+*####*======+++*#%####**=                  </tspan>
+<tspan x="12" y="443" textLength="512" lengthAdjust="spacingAndGlyphs">                   =-+*****#***+++*####***+=*:                  </tspan>
+<tspan x="12" y="458" textLength="512" lengthAdjust="spacingAndGlyphs">                  -+=-=*+*##%%%%@@%%%#*#*+=*#+.                 </tspan>
+<tspan x="12" y="473" textLength="512" lengthAdjust="spacingAndGlyphs">                .+*++=---=+***#*#%###*+==+#%###*.               </tspan>
+<tspan x="12" y="488" textLength="512" lengthAdjust="spacingAndGlyphs">                =*+++++=:.:---=-=--=-::=##%%###%+ ...           </tspan>
+<tspan x="12" y="503" textLength="512" lengthAdjust="spacingAndGlyphs">       ...      :*+++++++=:.        .=*#%%%%###%+ . .....       </tspan>
+<tspan x="12" y="518" textLength="512" lengthAdjust="spacingAndGlyphs">   .......       =**+++++++==--:::-=*#%%%%%%##%%: . .........   </tspan>
+<tspan x="12" y="533" textLength="512" lengthAdjust="spacingAndGlyphs">.....  .  ....    -**+++++++==---+*###%%%%#%%%%- . ....... .....</tspan>
+<tspan x="12" y="548" textLength="512" lengthAdjust="spacingAndGlyphs">....... .......    .=+*+++++++**#%%%%%%%##%@%*. .  .............</tspan>
+<tspan x="12" y="563" textLength="512" lengthAdjust="spacingAndGlyphs">.     ...........    .=**#####%%%%%%%%%%%%%*:  . ............ . </tspan>
+</text>
+</g>
+</svg>
